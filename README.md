@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rayanne Monção, sou futura Desenvolvedora Full-Stack e entusiasta de TI, do Brasil.</p>
+<p align="left">Meu nome é Rayanne Monção, futura Desenvolvedora Full-Stack, apaixonada por criar soluções digitais e aprender continuamente.</p>
 
 ###
 
@@ -12,9 +12,10 @@
 
 <p align="left">
 ✨ Criando códigos (e às vezes bugs) desde 2024<br>
-📚 Atualmente aprendendo Desenvolvimento Full-Stack e Mobile, Python, Java, JavaScript, DevOps e Cybersecurity<br>
-🎯 Objetivos: Fazer a transição para a carreira de desenvolvimento de software e contribuir em projetos inovadores<br>
-🎲 Curiosidade: Também tenho formação em Direito e experiência como assistente jurídica — então tenho um mix de habilidades em tecnologia + legal!
+💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS) em transição para a carreira de tecnologia.<br>
+🚀 Apaixonada por desenvolvimento Full-Stack, Mobile e automação com Python, Java e JavaScript.<br>
+🎯 Busco aplicar meus conhecimentos em projetos práticos e contribuir com soluções inovadoras.<br>
+📚 Experiência prévia em Direito e administração me trouxe habilidades em organização, comunicação e resolução de problemas.
 </p>
 
 ###
